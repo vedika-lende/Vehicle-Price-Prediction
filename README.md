@@ -125,11 +125,6 @@ The trained model predicts vehicle prices based on input parameters and provides
 - Deploy model using Flask or Streamlit
 - Add real-time prediction interface
 
----
-
-## Author
-
-Vedika Vijay Lende
 
 ---
 
