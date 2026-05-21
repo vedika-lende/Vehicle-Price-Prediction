@@ -83,7 +83,7 @@ Vehicle-Price-Prediction/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Vehicle-Price-Prediction.git
+git clone https://github.com/vedika-lende/Vehicle-Price-Prediction.git
 ```
 
 ### Step 2: Open Project Directory
